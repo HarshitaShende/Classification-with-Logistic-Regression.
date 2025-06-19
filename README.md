@@ -1,7 +1,7 @@
-# Task-4---Classification-with-Logistic-Regression.
+# Classification-with-Logistic-Regression.
 Task 4: Classification with Logistic Regression.
 
-# 🔍 Task 4: Classification with Logistic Regression
+# 🔍 Classification with Logistic Regression
 
 ## 🎯 Objective
 
